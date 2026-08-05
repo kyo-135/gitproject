@@ -27,7 +27,7 @@
     <td align="center" valign="top" style="padding: 5px;">
       <!-- 김기호 (Gemini) -->
       <table border="1" cellpadding="8" style="border-collapse: collapse; width: 220px;">
-        <tr><td align="center" height="90"><img src="data:image/png;base64,여기에_김기호_제미나이_Base64_문자열" alt="김기호" width="70"></td></tr>
+        <tr><td align="center" height="90"><img src="gemini-color.png" alt="김기호" width="70"></td></tr>
         <tr><td align="center"><strong>김기호</strong></td></tr>
         <tr><td align="center"><a href="https://github.com/GitHub_계정"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a></td></tr>
         <tr><td align="center"><small>v04 전처리·피처 파이프라인<br>v05 ML 학습·평가<br>데이터 전처리·모델 학습 결과서</small></td></tr>
